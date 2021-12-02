@@ -1,0 +1,59 @@
+button
+	{
+		margin:0;
+		padding:0;
+	}
+	p
+	{
+		margin:0;
+		padding:0;
+	}
+	#timeClass
+	{
+		font-weight: bold;
+		font-size: 18px;
+		float:left;
+		margin-top:10px;
+	}
+	#gameContainer
+	{
+		width: 1300px;
+		height: 500px;
+		/*background-color:yellow;*/
+	}
+	#upperDiv
+	{
+		width:1330px;
+		height: 50px;
+		/*background-color: red;*/
+	}
+	#quitButton
+	{
+		float:right;
+		margin: 13px 10px 0 0;	
+		font-size: 25px;
+	}
+	#quitLine
+	{
+		float:right;
+		margin: 9px 10px 10px 0;
+		font-size: 30px;
+	}
+	#No_of_clicks
+	{
+		float:left;
+		font-size: 20px;
+		margin: 10px 0 0 430px;
+	}
+	#total_time_taken
+	{
+		float:right;
+		font-size: 20px;
+		margin: 10px 430px 0 0; 
+	}
+	.clearfloating
+	{
+		clear: both;
+	}
+	
+	
